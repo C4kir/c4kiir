@@ -1,0 +1,11 @@
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\bin\Debug\04,10,2022.exe.config
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\bin\Debug\04,10,2022.exe
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\bin\Debug\04,10,2022.pdb
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\04,10,2022.csproj.AssemblyReference.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\04,10,2022.csproj.SuggestedBindingRedirects.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\_04_10_2022.Form1.resources
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\_04_10_2022.Properties.Resources.resources
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\04,10,2022.csproj.GenerateResource.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\04,10,2022.csproj.CoreCompileInputs.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\04,10,2022.exe
+D:\Harddisk Dosyaları\Visual Studio\source\repos\04,10,2022\04,10,2022\obj\Debug\04,10,2022.pdb
