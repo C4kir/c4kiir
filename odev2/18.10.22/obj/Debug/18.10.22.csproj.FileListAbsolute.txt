@@ -1,0 +1,12 @@
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\bin\Debug\18.10.22.exe.config
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\bin\Debug\18.10.22.exe
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\bin\Debug\18.10.22.pdb
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\18.10.22.csproj.AssemblyReference.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\18.10.22.csproj.SuggestedBindingRedirects.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\_18._10._22.AnaEkran.resources
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\_18._10._22.KitapEklemeEkranı.resources
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\_18._10._22.Properties.Resources.resources
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\18.10.22.csproj.GenerateResource.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\18.10.22.csproj.CoreCompileInputs.cache
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\18.10.22.exe
+D:\Harddisk Dosyaları\Visual Studio\source\repos\18.10.22\18.10.22\obj\Debug\18.10.22.pdb
